@@ -6,5 +6,5 @@
 
 ### Featured Projects
 - [UCLA Data Consulting Project](https://github.com/cassiakroo/UCLA-Data-Consulting-Project)
-- [Collection of Academic Projects](httsp://github.com/cassiakroo/academic-data-projects)
+- [Collection of Academic Projects](https://github.com/cassiakroo/academic-data-projects)
 
